@@ -1,17 +1,17 @@
 # IECSE-ML-SUMMER-PROJECT
 
-# IECSE-ML-Winter-19
 
-## The winter Machine Learning project of IECSE 2019
+
+## The summer Machine Learning project of IECSE 2019
 
 **Instructions:**
 
-- Clone the IECSE ML Winter Project repository
+- Clone the IECSE ML Summer Project repository
 ```git clone https://github.com/whopriyam/IECSE-ML-Winter-19.git```
 
 - Initialize a repository in the directory(this is just for information, you won't need this for any task) ```git init <Project Name>```
 
-- Type ```cd IECSE-ML-Winter-19```
+- Type ```cd IECSE-ML-Summer-19```
 
 - Create a new branch with your name using the command ```git checkout -b <branch-name>```, with branch name in format ```<first-name>"-"<last-name>. eg.- git checkout -b Priyam-Basu.```
 
@@ -39,5 +39,5 @@ git push origin Priyam-Basu
 
 - All solutions will be uploaded to master.
 
-- All tasks will be posted on the [wiki](https://github.com/whopriyam/IECSE-ML-Winter-19/wiki).
+- All tasks and resources will be posted on the [wiki](https://github.com/whopriyam/IECSE-ML-Winter-19/wiki).
 
