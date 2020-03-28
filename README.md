@@ -39,5 +39,5 @@ git push origin Priyam-Basu
 
 - All solutions will be uploaded to master.
 
-- All tasks and resources will be posted on the [wiki](https://github.com/whopriyam/IECSE-ML-Winter-19/wiki).
+- All tasks and resources will be posted on the [wiki](https://github.com/whopriyam/IECSE-ML-SUMMER-PROJECT/wiki).
 
