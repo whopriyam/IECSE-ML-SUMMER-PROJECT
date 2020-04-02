@@ -7,7 +7,7 @@
 **Instructions:**
 
 - Clone the IECSE ML Summer Project repository
-```git clone https://github.com/whopriyam/IECSE-ML-SUMMER-PROJECT```
+```git clone https://github.com/whopriyam/IECSE-ML-SUMMER-PROJECT.git```
 
 - Initialize a repository in the directory(this is just for information, you won't need this for any task) ```git init <Project Name>```
 
